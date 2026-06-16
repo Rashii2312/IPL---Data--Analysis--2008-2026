@@ -25,3 +25,8 @@ data cleaning, visualization, and statistical analysis.
 - 🥇 Player of the Match award analysis
 
 ---
+## 📦 Dataset
+
+- *Source:* Kaggle
+- *Dataset:* IPL Complete Dataset 2008–2026
+- *Link:* https://www.kaggle.com/datasets/maratheabhishek/ipl-dataset-2008-to-2025
